@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.ce4d737a.chunk.js",
-    "main.js.map": "/static/js/main.ce4d737a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9f4ef183.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9f4ef183.js.map",
-    "static/js/2.4600cb78.chunk.js": "/static/js/2.4600cb78.chunk.js",
-    "static/js/2.4600cb78.chunk.js.map": "/static/js/2.4600cb78.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f968fe31354385b410b8b7360663fa48.js": "/precache-manifest.f968fe31354385b410b8b7360663fa48.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.4600cb78.chunk.js.LICENSE": "/static/js/2.4600cb78.chunk.js.LICENSE",
-    "static/media/Eirik.jpg": "/static/media/Eirik.bb47093d.jpg",
-    "static/media/Forprosjektrapport.pdf": "/static/media/Forprosjektrapport.10f8267e.pdf",
-    "static/media/Markus.jpg": "/static/media/Markus.89cc602b.jpg",
-    "static/media/PDFImage.jpg": "/static/media/PDFImage.dd40142f.jpg",
-    "static/media/Prosjektskisse.pdf": "/static/media/Prosjektskisse.e5e03a97.pdf",
-    "static/media/Rany.jpg": "/static/media/Rany.822dea89.jpg",
-    "static/media/forprosjektrapport.png": "/static/media/forprosjektrapport.78e049a1.png",
-    "static/media/prosjektskisse.png": "/static/media/prosjektskisse.a788bb25.png"
+    "main.js": "./static/js/main.934bcea6.chunk.js",
+    "main.js.map": "./static/js/main.934bcea6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cb163236.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cb163236.js.map",
+    "static/js/2.4600cb78.chunk.js": "./static/js/2.4600cb78.chunk.js",
+    "static/js/2.4600cb78.chunk.js.map": "./static/js/2.4600cb78.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0a3800af8b0bf9a473acce250b63f456.js": "./precache-manifest.0a3800af8b0bf9a473acce250b63f456.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.4600cb78.chunk.js.LICENSE": "./static/js/2.4600cb78.chunk.js.LICENSE",
+    "static/media/Eirik.jpg": "./static/media/Eirik.bb47093d.jpg",
+    "static/media/Forprosjektrapport.pdf": "./static/media/Forprosjektrapport.c83dee7a.pdf",
+    "static/media/Markus.jpg": "./static/media/Markus.89cc602b.jpg",
+    "static/media/PDFImage.jpg": "./static/media/PDFImage.dd40142f.jpg",
+    "static/media/Prosjektskisse.pdf": "./static/media/Prosjektskisse.e5e03a97.pdf",
+    "static/media/Rany.jpg": "./static/media/Rany.822dea89.jpg",
+    "static/media/forprosjektrapport.png": "./static/media/forprosjektrapport.78e049a1.png",
+    "static/media/prosjektskisse.png": "./static/media/prosjektskisse.a788bb25.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f4ef183.js",
+    "static/js/runtime-main.cb163236.js",
     "static/js/2.4600cb78.chunk.js",
-    "static/js/main.ce4d737a.chunk.js"
+    "static/js/main.934bcea6.chunk.js"
   ]
 }
