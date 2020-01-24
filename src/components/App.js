@@ -54,7 +54,7 @@ const bachelorMembers = [
     name: "Markus",
     imgLink: Markus,
     about:
-      "25 år, dataingeniør. Det som interesserer Markus innenfor IT er systemmodellering og datasikkerhet. Han ser for seg å ta en master i datasikkerhet ved NTNU etter noen år i arbeid"
+      "25 år, dataingeniør. Det som interesserer Markus innenfor IT er systemmodellering og datasikkerhet"
   }
 ];
 
