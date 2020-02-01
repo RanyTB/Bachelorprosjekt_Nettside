@@ -10,8 +10,8 @@ function Banner(props) {
     <div className={classes.heroContent}>
       <Container maxWidth="sm">
         <Typography
-          component="h1"
-          variant="h2"
+          component="h3"
+          variant="h3"
           align="center"
           color="textPrimary"
           gutterBottom

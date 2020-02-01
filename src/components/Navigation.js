@@ -23,7 +23,7 @@ function Navigation() {
         <div>
         <CssBaseline />
         <AppBar position="relative" className={classes.appBar}>
-          
+        
           <Toolbar>
           </Toolbar>
         </AppBar>

@@ -48,13 +48,13 @@ const bachelorMembers = [
     name: "Eirik Bøyum",
     imgLink: Eirik,
     about:
-      "28 år, dataingeniør. Eirik har flere interesser og har vært innom både økonomi, politikk og nanoteknologi"
+      "28 år, dataingeniør. Eirik har flere interesser og har vært innom både økonomi, politikk og nanoteknologi."
   },
   {
-    name: "Markus",
+    name: "Markus Hellestveit",
     imgLink: Markus,
     about:
-      "25 år, dataingeniør. Det som interesserer Markus innenfor IT er systemmodellering og datasikkerhet"
+      "25 år, dataingeniør. Det som interesserer Markus innenfor IT er backend-utvikling og datasikkerhet."
   }
 ];
 
