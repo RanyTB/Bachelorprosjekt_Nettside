@@ -6,22 +6,16 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
 import Link from "@material-ui/core/Link";
-import forprosjektbilde from "../pictures/forprosjektrapport.png";
-import prosjektskisseBilde from "../pictures/prosjektskisse.png";
-import forprosjekt from "../documents/Forprosjektrapport.pdf";
-import prosjektskisse from "../documents/Prosjektskisse.pdf";
-import PDFBilde from "../pictures/PDFImage.jpg";
 import styles from "../styles/styles";
 
-function Documents({bachelorDocuments}) {
-
+function Documents({ bachelorDocuments }) {
   const classes = styles();
 
   return (
     <Container className={classes.cardGrid} maxWidth="md">
       {/* End hero unit */}
       <Grid container spacing={4}>
-        {bachelorDocuments.map(bachelorDocument => (
+        {bachelorDocuments.map((bachelorDocument) => (
           <Grid item key={bachelorDocument.title} xs={12} sm={6} md={3}>
             <Link color="inherit" href={bachelorDocument.documentLink}>
               <Card className={classes.card}>
